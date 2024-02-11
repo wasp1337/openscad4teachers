@@ -11,6 +11,6 @@
 
 ## Files
 - [STC_3D_1ABEHIF_CABS1.pdf](https://github.com/wasp1337/openscad4teachers/files/14231742/STC_3D_1ABEHIF_CABS1.pdf)
-- [STC_3D-Druck_STC_2022.pdf](https://github.com/wasp1337/openscad4teachers/files/14231743/STC_3D-Druck_STC_2022.pdf)
+- 
 
 ## Lesson Plan
