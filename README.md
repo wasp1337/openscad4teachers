@@ -121,7 +121,7 @@ translate([0,-200,0]) sphere(d=durchmesser);
 
 //-----
 
-// union
+// union, sinnlos bei nur 1 objekt!!!
 translate([0,400,0]) union(){
     cube(100);
     sphere(50);
