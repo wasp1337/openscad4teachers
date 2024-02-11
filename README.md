@@ -43,7 +43,7 @@ union(){ }
 i=8;
 cube(i);
 ```
-### Lesson 4 - Cutting, Colors (for fun only)
+### Lesson #4 - Cutting, Colors (for fun only)
 ```
 difference(){ }
 intersection(){ }
@@ -53,7 +53,7 @@ color("colorname",alpha)
 color("#hexvalue")
 color([r,g,b,a])
 ```
-### Lesson 5 - Text, Fragmentation, Extrusion
+### Lesson #5 - Text, Fragmentation, Extrusion
 ```
 text(t,size,font,halign,valign,spacing,direction,language,script);
 text("OpenSCAD",size=20,font ="Liberation Sans:style=Bold Italic");
@@ -65,7 +65,7 @@ $fn=100;
 rotate_extrude(angle,convexity)
 linear_extrude(height,center,convexity,twist,slices)
 ```
-### Lesson 6 OPTIONAL - Modules, Loops
+### Lesson #6 OPTIONAL - Modules, Loops
 ```
 module stc(){ 
 	i=5;
